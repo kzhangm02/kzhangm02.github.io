@@ -28,7 +28,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "teachings-data-science-fundamentals",
+            },},{id: "news-our-paper-on-causal-inference-with-autoregressive-models-was-accepted-to-tmlr",
+          title: 'Our paper on causal inference with autoregressive models was accepted to TMLR!',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-our-paper-on-evaluating-fairness-using-path-specific-causal-effects-was-accepted-to-neurips",
+          title: 'Our paper on evaluating fairness using path-specific causal effects was accepted to NeurIPS!...',
+          description: "",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
