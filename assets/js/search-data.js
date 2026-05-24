@@ -23,12 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-causal-inference-with-autoregressive-models-was-accepted-to-tmlr",
+        },{id: "news-our-paper-on-causal-inference-with-autoregressive-models-was-accepted-to-tmlr",
           title: 'Our paper on causal inference with autoregressive models was accepted to TMLR!',
           description: "",
           section: "News",},{id: "news-our-paper-on-evaluating-fairness-using-path-specific-causal-effects-was-accepted-to-neurips",
