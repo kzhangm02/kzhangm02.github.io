@@ -31,12 +31,10 @@ ninja.data = [{
             },},{id: "news-our-paper-on-causal-inference-with-autoregressive-models-was-accepted-to-tmlr",
           title: 'Our paper on causal inference with autoregressive models was accepted to TMLR!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-on-meta-probabilistic-modeling-was-accepted-to-aistats",
+          title: 'Our paper on meta-probabilistic modeling was accepted to AISTATS!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-on-evaluating-fairness-using-path-specific-causal-effects-was-accepted-to-neurips",
+          section: "News",},{id: "news-our-paper-on-evaluating-fairness-using-path-specific-causal-effects-was-accepted-to-neurips",
           title: 'Our paper on evaluating fairness using path-specific causal effects was accepted to NeurIPS!...',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
