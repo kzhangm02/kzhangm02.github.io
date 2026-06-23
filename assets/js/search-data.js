@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-meta-probabilistic-modeling-was-accepted-to-aistats",
           title: 'Our paper on meta-probabilistic modeling was accepted to AISTATS!',
           description: "",
+          section: "News",},{id: "news-our-paper-on-interpretable-ai-driven-scientific-discovery-was-accepted-to-the-icml-ai4math-workshop",
+          title: 'Our paper on interpretable AI-driven scientific discovery was accepted to the ICML AI4Math...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
